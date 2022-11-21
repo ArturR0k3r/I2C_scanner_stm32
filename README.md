@@ -7,4 +7,4 @@ and get all adresses
 
 1) Change the #include hal_xxxxxxxxxxx.h depending of your board
 2) Upload the soft into the board 
-3) Open TeraTerm and connect to the COMx x-the port where your board is connected
+3) Open TeraTerm and connect to the COMx x-the port where your board is connected(TERATERM file)
